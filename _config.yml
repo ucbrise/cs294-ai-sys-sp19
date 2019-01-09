@@ -5,7 +5,9 @@ title: AI-Sys Sp19
 email: jegonzal@berkeley.edu 
 author:
 description: AI-Sys Sp19 Course Website
-url:
+
+
+baseurl: /294-ai-sys
 
 # Build settings
 # permalink: :title/
