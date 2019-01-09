@@ -1,0 +1,85 @@
+
+
+<!-- This is the dates for all the lectures -->
+{% capture dates %}
+2019/01/23
+2019/01/28
+2019/01/30
+2019/02/04
+2019/02/06
+2019/02/11
+2019/02/13
+2019/02/18
+2019/02/20
+2019/02/25
+2019/02/27
+2019/03/04
+2019/03/06
+2019/03/11
+2019/03/13
+2019/03/18
+2019/03/20
+2019/03/25
+2019/03/27
+2019/04/01
+2019/04/03
+2019/04/08
+2019/04/10
+2019/04/15
+2019/04/17
+2019/04/22
+2019/04/24
+2019/04/29
+2019/05/01
+2019/05/06
+2019/05/08
+{% endcapture %}
+{% assign dates = dates | split: " " %}
+
+
+
+
+<table class="table table-striped syllabus">
+<thead>
+   <tr>
+      <th style="width: 5%"> Week </th>
+      <th style="width: 5%"> Lecture </th>
+      <th style="width: 10%"> Date </th>
+      <th style="width: 80%"> Topic </th>
+   </tr>
+</thead>
+<tbody>
+
+{% include syllabus_entries.md %}
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+<script type="text/javascript">
+var current_date = new Date();
+var rows = document.getElementsByTagName("th");
+var finished =  false;
+for (var i = 1; i < rows.length && !finished; i++) {
+   var r = rows[i];
+   if (r.id.startsWith("counter_")) {
+      var fields = r.id.split("_")
+      var week_div_id = "week_" + fields[2]
+      var lecture_date = new Date(fields[1] + " 23:59:00")
+      if (current_date <= lecture_date) {
+         finished = true;
+         r.style.background = "orange"
+         r.style.color = "black"
+         var week_td = document.getElementById(week_div_id)
+         week_td.style.background = "#043361"
+         week_td.style.color = "white"
+      }
+   }
+}
+</script>

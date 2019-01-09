@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include navigation.html %}
+    
+    <main role="main">
+        
+        {% include carousel.html %}      
+
+        <div class="container course_content">
+            {{ content }}
+        </div>
+
+      {% include footer.html %}
+    </main>
+
+  </body>
+</html>
+

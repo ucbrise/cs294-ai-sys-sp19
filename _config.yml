@@ -1,3 +1,13 @@
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 
+# Site settings
+title: AI-Sys Sp19
+email: jegonzal@berkeley.edu 
+author:
+description: AI-Sys Sp19 Course Website
+url:
 
+# Build settings
+# permalink: :title/
+sass:
+  sass_dir: css
