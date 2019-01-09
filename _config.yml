@@ -14,9 +14,3 @@ baseurl: /294-ai-sys
 sass:
   sass_dir: css
 
-
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  hard_wrap: false
