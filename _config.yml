@@ -13,3 +13,10 @@ baseurl: /294-ai-sys
 # permalink: :title/
 sass:
   sass_dir: css
+
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false

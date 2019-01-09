@@ -8,6 +8,9 @@ $theme-colors: (
   "danger": #ED4E33,
 );
 
+.blockquote  {
+  padding: 1rem;
+}
 
 @import 'bootstrap/bootstrap';
 
