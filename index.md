@@ -7,7 +7,7 @@ layout: default
 
 * **When**: *Mondays and Wednesdays from 9:30 to 11:00*
 * **Where**: *Soda 405*
-* **Instructors**: [Ion Stoica]() and [Joseph Gonzalez]()
+* **Instructors**: [Ion Stoica]() and [Joseph Gonzalez](https://eecs.berkeley.edu/~jegonzal)
 
 
 ## Course Description
