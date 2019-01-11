@@ -2,49 +2,48 @@
 
 <!-- This is the dates for all the lectures -->
 {% capture dates %}
-2019/01/23
-2019/01/28
-2019/01/30
-2019/02/04
-2019/02/06
-2019/02/11
-2019/02/13
-2019/02/18
-2019/02/20
-2019/02/25
-2019/02/27
-2019/03/04
-2019/03/06
-2019/03/11
-2019/03/13
-2019/03/18
-2019/03/20
-2019/03/25
-2019/03/27
-2019/04/01
-2019/04/03
-2019/04/08
-2019/04/10
-2019/04/15
-2019/04/17
-2019/04/22
-2019/04/24
-2019/04/29
-2019/05/01
-2019/05/06
-2019/05/08
+1/23/19
+1/28/19
+1/30/19
+2/4/19
+2/6/19
+2/11/19
+2/13/19
+2/18/19
+2/20/19
+2/25/19
+2/27/19
+3/4/19
+3/6/19
+3/11/19
+3/13/19
+3/18/19
+3/20/19
+3/25/19
+3/27/19
+4/1/19
+4/3/19
+4/8/19
+4/10/19
+4/15/19
+4/17/19
+4/22/19
+4/24/19
+4/29/19
+5/1/19
+5/6/19
+5/8/19
 {% endcapture %}
 {% assign dates = dates | split: " " %}
 
 
-
+<a href="#today"> Jump to Today </a>
 
 <table class="table table-striped syllabus">
 <thead>
    <tr>
       <th style="width: 5%"> Week </th>
-      <th style="width: 5%"> Lecture </th>
-      <th style="width: 10%"> Date </th>
+      <th style="width: 10%"> Date (Lec.) </th>
       <th style="width: 80%"> Topic </th>
    </tr>
 </thead>
@@ -63,6 +62,8 @@
 
 
 <script type="text/javascript">
+
+
 var current_date = new Date();
 var rows = document.getElementsByTagName("th");
 var finished =  false;
@@ -79,7 +80,31 @@ for (var i = 1; i < rows.length && !finished; i++) {
          var week_td = document.getElementById(week_div_id)
          week_td.style.background = "#043361"
          week_td.style.color = "white"
+         var anchor = document.createElement("div")
+         anchor.setAttribute("id", "today")
+         week_td.prepend(anchor)
       }
    }
 }
+
+$(".reading").each(function(ind, elem) {
+   var optional_reading = $(elem).find(".optional_reading");
+   if(optional_reading.length == 1) {
+      optional_reading = optional_reading[0];
+      optional_reading.setAttribute("id", "optional_reading_" + ind);
+      var button = document.createElement("button");
+      button.setAttribute("class", "btn btn-primary");
+      button.setAttribute("type", "button");
+      button.setAttribute("data-toggle", "collapse");
+      button.setAttribute("data-target", "#optional_reading_" + ind);
+      button.setAttribute("aria-expanded", "false");
+      button.setAttribute("aria-controls", "#optional_reading_" + ind);
+      optional_reading.setAttribute("class", "collapse")
+      button.innerHTML = "Additional Optional Reading";
+      optional_reading.before(button)
+   }
+   
+})
+
+
 </script>

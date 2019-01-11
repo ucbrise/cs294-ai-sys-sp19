@@ -33,8 +33,9 @@
 
 
 <th id="counter_{{lecture_date}}_{{week}}"> 
-{{ lecture_counter }} </th>
-<td> {{ lecture_date }} </td> 
+{{ lecture_date }} <br/>
+( {{ lecture_counter }} )
+</th>
 {% assign lecture_counter = lecture_counter | plus: 1 %} 
 <td markdown="1">
 

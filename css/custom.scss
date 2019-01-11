@@ -14,6 +14,12 @@ $theme-colors: (
 
 @import 'bootstrap/bootstrap';
 
+:target:before {
+content:"";
+display:block;
+height:120px; /* fixed header height*/
+margin:-120px 0 0; /* negative fixed header height */
+}
 
 .syllabus h1 {
   font-size: 2rem;
@@ -23,6 +29,42 @@ $theme-colors: (
 }
 .syllabus h3 {
   font-size: 1.2rem;
+}
+
+
+
+.required_reading::before { 
+  /* content: "Required Reading"; */
+}
+
+.optional_reading::before { 
+  content: "Optional Reading";
+}
+
+.required_reading {
+  padding: 1rem;
+} 
+
+.optional_reading {
+  padding: 1rem;
+} 
+
+.required_reading ul {
+  padding-top: 1rem;
+  /*line-height: 1rem;*/
+}
+
+.optional_reading ul {
+  padding-top: 1rem;
+  
+}
+
+.required_reading ul li {
+ 
+}
+
+.optional_reading ul li {
+  
 }
 
 
