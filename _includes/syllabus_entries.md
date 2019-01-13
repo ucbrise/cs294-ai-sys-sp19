@@ -9,19 +9,6 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 
-{% include syllabus_entry %}
-## Distributed Deep Learning (Part 2)
-<div class="summary" markdown="1"> </div>
-<div class="reading">
-<div class="required_reading" markdown="1">
-
-* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
-* [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
-
-</div>
-</div>
-
-
 
 {% include syllabus_entry %}
 ## Distributed Deep Learning (Part 1)
@@ -41,6 +28,28 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 </div>
 </div>
+
+
+
+
+
+
+
+
+{% include syllabus_entry %}
+## Distributed Deep Learning (Part 2)
+<div class="summary" markdown="1"> </div>
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
+* [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
+
+</div>
+</div>
+
+
+
 
 
 
