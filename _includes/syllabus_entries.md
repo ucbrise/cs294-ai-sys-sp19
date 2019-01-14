@@ -406,7 +406,7 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 {% include syllabus_entry %}
-## Application? Security
+## Applications: Security
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -435,7 +435,7 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 {% include syllabus_entry %}
-## Application? Security
+## Application: Prediction Serving
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
