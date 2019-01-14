@@ -11,7 +11,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-## Distributed Deep Learning (Part 1)
+## Distributed Deep Learning  (Part 1)
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
