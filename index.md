@@ -7,7 +7,7 @@ layout: default
 
 * **When**: *Mondays and Wednesdays from 9:30 to 11:00*
 * **Where**: *Soda 405*
-* **Instructors**: [Ion Stoica]() and [Joseph Gonzalez](https://eecs.berkeley.edu/~jegonzal)
+* **Instructors**: [Ion Stoica]() and [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
 
 
 ## Course Description
@@ -32,14 +32,16 @@ For projects, we will strongly encourage teams that contains both AI and systems
 {% include syllabus.html %}
 
 
-## Projects
-
-
-
 ## Grading
 
-How will grades be calculated
+Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class.
+* **Projects:** _60%_
+* **Weekly Summaries:** _20%_
+* **Class Participation:** _20%_
 
+## Projects
+
+Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
 
 
 

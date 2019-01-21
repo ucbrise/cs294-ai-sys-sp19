@@ -36,6 +36,7 @@
 {% endcapture %}
 {% assign dates = dates | split: " " %}
 
+This is a tentative schedule.  Specific readings are subject to change as new material is published.
 
 <a href="#today"> Jump to Today </a>
 
@@ -93,7 +94,7 @@ $(".reading").each(function(ind, elem) {
       optional_reading = optional_reading[0];
       optional_reading.setAttribute("id", "optional_reading_" + ind);
       var button = document.createElement("button");
-      button.setAttribute("class", "btn btn-primary");
+      button.setAttribute("class", "btn btn-primary btn-sm");
       button.setAttribute("type", "button");
       button.setAttribute("data-toggle", "collapse");
       button.setAttribute("data-target", "#optional_reading_" + ind);
