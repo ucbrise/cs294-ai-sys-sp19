@@ -16,9 +16,10 @@ This lecture will be an overview of the class, requirements, and an introduction
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
 
 * The [AlexNet paper](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) that both help launch deep learning and also advocate for systems and ML.  Take a look at how system constraints affected the model.
+
+* [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
 
 * [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
 
