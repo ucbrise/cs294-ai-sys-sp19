@@ -243,40 +243,39 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 {% include syllabus_entry %}
-## Distributed RL Algorithms
-
+## Application: Program synthesis
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
-* [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)
+* [Learning to Represent Programs with Graphs](https://openreview.net/forum?id=BJOFETxR-)
+* [DeepCoder: Learning to write programs](https://openreview.net/pdf?id=ByldLrqlx)
 
 </div>
 </div>
-
-
-
-
-
-
-
-
 
 
 
 {% include syllabus_entry %}
-## New Neural Architectures
-
+## Distributed Deep Learning  (Part 1)
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Matrix capsules with EM Routing](https://ai.google/research/pubs/pub46653)
-* [Cortical Learning via Prediction](http://proceedings.mlr.press/v40/Papadimitriou15.pdf)
+* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
+* [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+
+</div>
+
+<div class="optional_reading" markdown="1">
+
+* [Exascale Deep Learning for Climate Analytics](https://arxiv.org/abs/1810.01993)
+* [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233)
 
 </div>
 </div>
+
+
 
 
 
@@ -435,22 +434,15 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 
-
 {% include syllabus_entry %}
-## Distributed Deep Learning  (Part 1)
+## Distributed RL Algorithms
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
-* [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
-
-</div>
-
-<div class="optional_reading" markdown="1">
-
-* [Exascale Deep Learning for Climate Analytics](https://arxiv.org/abs/1810.01993)
-* [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233)
+* [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
+* [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)
 
 </div>
 </div>
@@ -516,17 +508,15 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 
-
-
-
 {% include syllabus_entry %}
-## Application: Program synthesis
+## New Neural Architectures
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Learning to Represent Programs with Graphs](https://openreview.net/forum?id=BJOFETxR-)
-* [DeepCoder: Learning to write programs](https://openreview.net/pdf?id=ByldLrqlx)
+* [Matrix capsules with EM Routing](https://ai.google/research/pubs/pub46653)
+* [Cortical Learning via Prediction](http://proceedings.mlr.press/v40/Papadimitriou15.pdf)
 
 </div>
 </div>
