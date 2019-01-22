@@ -17,12 +17,23 @@ This lecture will be an overview of the class, requirements, and an introduction
 <div class="required_reading" markdown="1">
 
 * [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
+
 * [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
 
 </div>
 <div class="optional_reading" markdown="1">
 
-* [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
+### Convolutional Networks
+
+* [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/)
+* Much of contemporary computer vision can be traced back to this original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/)
+
+
+### Auto-Encoders
+
+* An excellent [Survey on Autoencoders](https://www.doc.ic.ac.uk/~js4416/163/website/)
+* Original work on auto-encoders [Learning Internal Representations by Error Propagation](https://ieeexplore.ieee.org/document/6302929) by Rumelhart and McClelland.
+
 
 </div>
 </div>
