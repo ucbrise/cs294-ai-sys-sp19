@@ -28,14 +28,14 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 ### Convolutional Networks
 
-* For a quick introduction take a look at [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/) and [Chris Olah's excellent post](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
-* Much of contemporary computer vision can be traced back to this original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/)
+* For a quick introduction take a look at [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/) and [Chris Olah's illustrated posts](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/).
+* Much of contemporary computer vision can be traced back to the original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/).
 
 
 ### Recurrent Neural Networks
 
-* Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
-* Chris Olah has an excellent [illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs.
+* Chris Olah has a [well illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 
 
 ### Auto-Encoders
