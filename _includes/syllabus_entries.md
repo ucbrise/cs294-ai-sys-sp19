@@ -18,6 +18,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
 
+* The [AlexNet paper](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) that both help launch deep learning and also advocate for systems and ML.  Take a look at how system constraints affected the model.
+
 * [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
 
 </div>
@@ -25,8 +27,14 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 ### Convolutional Networks
 
-* [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/)
+* For a quick introduction take a look at [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/) and [Chris Olah's excellent post](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
 * Much of contemporary computer vision can be traced back to this original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/)
+
+
+### Recurrent Neural Networks
+
+* Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
+* Chris Olah has an excellent [illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
 ### Auto-Encoders
