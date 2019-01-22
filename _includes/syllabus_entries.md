@@ -9,47 +9,40 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 
-
 {% include syllabus_entry %}
-## Distributed Deep Learning  (Part 1)
+## Classic Neural Architectures
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
-* [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+* [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
+* [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
 
 </div>
-
 <div class="optional_reading" markdown="1">
 
-* [Exascale Deep Learning for Climate Analytics](https://arxiv.org/abs/1810.01993)
-* [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233)
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
 
 </div>
 </div>
-
-
-
-
-
-
-
 
 {% include syllabus_entry %}
-## Distributed Deep Learning (Part 2)
+## New Neural Network Architectures
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
-* [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+* [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
+
+</div>
+<div class="optional_reading" markdown="1">
+* [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
 
 </div>
 </div>
-
-
-
 
 
 
@@ -67,19 +60,19 @@ This lecture will be an overview of the class, requirements, and an introduction
 </div>
 
 
-
-
-
-
-
 {% include syllabus_entry %}
-## Deep Learning Compilers
+## RL Systems & Algorithms
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
-* [TensorComprehensions](https://arxiv.org/abs/1802.04730)
+* [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf)
+* [RLlib: Abstractions for Distributed Reinforcement Learning](https://arxiv.org/abs/1712.09381)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260)
 
 </div>
 </div>
@@ -225,28 +218,17 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 
-
-
 {% include syllabus_entry %}
-## RL Systems & Algorithms
+## Deep Learning Compilers
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf)
-* [RLlib: Abstractions for Distributed Reinforcement Learning](https://arxiv.org/abs/1712.09381)
-
-</div>
-<div class="optional_reading" markdown="1">
-
-* [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260)
+* [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
+* [TensorComprehensions](https://arxiv.org/abs/1802.04730)
 
 </div>
 </div>
-
-
-
-
 
 
 
@@ -255,9 +237,6 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 {% include syllabus_entry %}
 <center> <h1>Project Presentation Checkpoints</h1> </center>
-
-
-
 
 
 
@@ -287,7 +266,7 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 {% include syllabus_entry %}
-## New Neural Architectures (1/2)
+## New Neural Architectures
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -301,23 +280,17 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 
-
-
-
-
 {% include syllabus_entry %}
-## New Neural Architectures (2/2)
-
+## Distributed Deep Learning (Part 2)
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
-* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
+* [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
 
 </div>
 </div>
-
 
 
 {% include syllabus_entry %}
@@ -464,22 +437,24 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 {% include syllabus_entry %}
-## Classic Neural Architectures
-
+## Distributed Deep Learning  (Part 1)
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
-* [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
+* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
+* [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
 
 </div>
+
 <div class="optional_reading" markdown="1">
 
-* [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
+* [Exascale Deep Learning for Climate Analytics](https://arxiv.org/abs/1810.01993)
+* [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233)
 
 </div>
 </div>
+
 
 
 
