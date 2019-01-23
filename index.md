@@ -728,7 +728,7 @@ $(".reading").each(function(ind, elem) {
       button.setAttribute("data-target", "#optional_reading_" + ind);
       button.setAttribute("aria-expanded", "false");
       button.setAttribute("aria-controls", "#optional_reading_" + ind);
-      optional_reading.setAttribute("class", "collapse")
+      optional_reading.setAttribute("class", "optional_reading_no_heading collapse")
       button.innerHTML = "Additional Optional Reading";
       optional_reading.before(button)
    }

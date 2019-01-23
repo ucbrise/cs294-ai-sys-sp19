@@ -47,6 +47,11 @@ margin:-120px 0 0; /* negative fixed header height */
 
 .optional_reading {
   padding: 1rem;
+
+}
+
+.optional_reading_no_heading {
+  padding: 1rem;
 } 
 
 .required_reading ul {
@@ -55,9 +60,14 @@ margin:-120px 0 0; /* negative fixed header height */
 }
 
 .optional_reading ul {
-  padding-top: 1rem;
-  
+  padding-top: 1rem; 
 }
+
+
+.optional_reading_no_heading ul {
+  /*padding: 1rem;*/
+} 
+
 
 .required_reading ul li {
  
