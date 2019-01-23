@@ -8,7 +8,7 @@ layout: default
 * **When**: *Mondays and Wednesdays from 9:30 to 11:00*
 * **Where**: *Soda 405*
 * **Instructors**: [Ion Stoica]() and [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
-
+* **Announcements**: [Piazza](piazza.com/berkeley/spring2019/cs294159/home)
 
 ## Course Description
 <blockquote class="blockquote">
