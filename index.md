@@ -99,7 +99,13 @@ This is a tentative schedule.  Specific readings are subject to change as new ma
 
 This lecture will be an overview of the class, requirements, and an introduction to what makes great AI-Systems research.
 
-[pdf](assets/lectures/l1.pdf)
+### Slide Links
+* Course Overview [[pdf](assets/lectures/l1.pdf), [pptx](assets/lectures/l1.pptx)]
+
+
+
+
+
 
 
 {% include syllabus_entry %}
