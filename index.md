@@ -129,7 +129,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * For a quick introduction take a look at [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/) and [Chris Olah's illustrated posts](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/).
 * Much of contemporary computer vision can be traced back to the original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/).
-* There is a line of work that builds on [residual networks](https://arxiv.org/abs/1512.03385) starting with [Highway Networks](https://arxiv.org/abs/1505.00387), then [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993), and then more recently [Deep Layer Aggregation](https://arxiv.org/abs/1707.06484).  This [blog post](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) provides a nice overview?
+* There is a line of work that builds on [residual networks](https://arxiv.org/abs/1512.03385) starting with [Highway Networks](https://arxiv.org/abs/1505.00387), then [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993), and then more recently [Deep Layer Aggregation](https://arxiv.org/abs/1707.06484).  This [blog post](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) provides a nice overview.
 
 
 ### Recurrent Neural Networks
@@ -166,7 +166,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-## New Neural Network Architectures
+## More Neural Network Architectures
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -177,7 +177,13 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 </div>
 <div class="optional_reading" markdown="1">
+
+### Capsule Networks
+* A nice [overview](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b) of Capsule networks.
+
+### Other Kinds of Data
 * [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
+
 
 </div>
 </div>
