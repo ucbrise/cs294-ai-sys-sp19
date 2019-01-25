@@ -129,6 +129,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * For a quick introduction take a look at [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/) and [Chris Olah's illustrated posts](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/).
 * Much of contemporary computer vision can be traced back to the original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/).
+* There is a line of work that builds on [residual networks](https://arxiv.org/abs/1512.03385) starting with [Highway Networks](https://arxiv.org/abs/1505.00387), then [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993), and then more recently [Deep Layer Aggregation](https://arxiv.org/abs/1707.06484).  This [blog post](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) provides a nice overview?
 
 
 ### Recurrent Neural Networks
@@ -143,8 +144,26 @@ This lecture will be an overview of the class, requirements, and an introduction
 * Original work on auto-encoders [Learning Internal Representations by Error Propagation](https://ieeexplore.ieee.org/document/6302929) by Rumelhart and McClelland.
 
 
+
+
+
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% include syllabus_entry %}
 ## New Neural Network Architectures
