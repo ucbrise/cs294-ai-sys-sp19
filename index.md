@@ -111,7 +111,20 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 ## Convolutional Neural Network Architectures
 
-<div class="summary" markdown="1"> </div>
+
+**Minor Update:** We have moved the reading on auto-encoders to Wednesday.
+
+Reading notes for the two required readings below must be submitted using this **[google form](https://goo.gl/forms/BDHKbtmypsw9UPyj2)** by Monday the 28th at 9:30AM. We have asked that for each reading you answer the following questions:
+1. What is the problem that is being solved?
+1. What are the metrics of success?
+1. What are the key innovations over prior work?
+1. What are the key results?
+1. What are some of the limitations and how might this work be improved?
+1. How might this work have long term impact?
+
+If you find some of the reading confusing and want a more gentle introduction, the optional reading contains some useful explanatory blog posts that may help.
+
+
 <div class="reading">
 <div class="required_reading" markdown="1">
 
@@ -126,13 +139,9 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 ### Convolutional Networks
 
-* For a quick introduction take a look at [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/) and [Chris Olah's illustrated posts](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/).
+* For a quick introduction to convolutional networks take a look at [CS231 Intro to Convolutional Networks](http://cs231n.github.io/convolutional-networks/) and [Chris Olah's illustrated posts](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/).
 * Much of contemporary computer vision can be traced back to the original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/).
 * There is a line of work that builds on [residual networks](https://arxiv.org/abs/1512.03385) starting with [Highway Networks](https://arxiv.org/abs/1505.00387), then [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993), and then more recently [Deep Layer Aggregation](https://arxiv.org/abs/1707.06484).  This [blog post](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) provides a nice overview.
-
-
-
-
 
 
 </div>

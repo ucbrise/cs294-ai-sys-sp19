@@ -4,7 +4,7 @@
 
 
 $theme-colors: (
-  "primary": #003262,
+  "primary": #3B7EA1,
   "danger": #ED4E33,
 );
 
@@ -39,7 +39,8 @@ margin:-120px 0 0; /* negative fixed header height */
 
 
 .required_reading::before { 
-  /* content: "Required Reading"; */
+  content: "Required Reading";
+  font-size: 1.5rem;
 }
 
 .optional_reading::before { 
