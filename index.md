@@ -109,7 +109,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-## Classic Neural Architectures
+## Convolutional Neural Network Architectures
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -120,7 +120,6 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
 
-* [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
 
 </div>
 <div class="optional_reading" markdown="1">
@@ -131,17 +130,6 @@ This lecture will be an overview of the class, requirements, and an introduction
 * Much of contemporary computer vision can be traced back to the original [LeNet paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) and it's corresponding [90's era website](http://yann.lecun.com/exdb/lenet/).
 * There is a line of work that builds on [residual networks](https://arxiv.org/abs/1512.03385) starting with [Highway Networks](https://arxiv.org/abs/1505.00387), then [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993), and then more recently [Deep Layer Aggregation](https://arxiv.org/abs/1707.06484).  This [blog post](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) provides a nice overview.
 
-
-### Recurrent Neural Networks
-
-* Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs.
-* Chris Olah has a [well illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
-
-
-### Auto-Encoders
-
-* An excellent [Survey on Autoencoders](https://www.doc.ic.ac.uk/~js4416/163/website/)
-* Original work on auto-encoders [Learning Internal Representations by Error Propagation](https://ieeexplore.ieee.org/document/6302929) by Rumelhart and McClelland.
 
 
 
@@ -172,11 +160,31 @@ This lecture will be an overview of the class, requirements, and an introduction
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+* [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
+
+
 * [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
 
 </div>
 <div class="optional_reading" markdown="1">
+
+### Language Networks:
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+
+
+### Recurrent Neural Networks
+
+* Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs.
+* Chris Olah has a [well illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+
+
+### Auto-Encoders
+
+* An excellent [Survey on Autoencoders](https://www.doc.ic.ac.uk/~js4416/163/website/)
+* Original work on auto-encoders [Learning Internal Representations by Error Propagation](https://ieeexplore.ieee.org/document/6302929) by Rumelhart and McClelland.
+
 
 ### Capsule Networks
 * A nice [overview](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b) of Capsule networks.
