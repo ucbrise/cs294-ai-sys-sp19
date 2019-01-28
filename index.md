@@ -124,8 +124,10 @@ Reading notes for the two required readings below must be submitted using this *
 
 If you find some of the reading confusing and want a more gentle introduction, the optional reading contains some useful explanatory blog posts that may help.
 
-### Slide Links
+### Links
+* [Reading Quiz](https://goo.gl/forms/BDHKbtmypsw9UPyj2) due before class.
 * Intro Lecture + AlexNet [[pdf](assets/lectures/lec02/convolutional_networks_v2.pdf), [pptx](assets/lectures/lec02/convolutional_networks_v2.pptx)]
+* Classic Neural Architectures and Inception-v4 [[pdf](assets/lectures/lec02/classic_neural_architectures.pdf), [pptx](assets/lectures/lec02/classic_neural_architectures.pptx)]
 
 
 
@@ -169,15 +171,19 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## More Neural Network Architectures
 
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/POkEId1xA5c9FjoI3) due before class. 
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
 
 * [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
-
-
 * [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
+
+
 
 </div>
 <div class="optional_reading" markdown="1">
