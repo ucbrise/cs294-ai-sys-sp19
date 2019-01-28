@@ -124,6 +124,10 @@ Reading notes for the two required readings below must be submitted using this *
 
 If you find some of the reading confusing and want a more gentle introduction, the optional reading contains some useful explanatory blog posts that may help.
 
+### Slide Links
+* Intro Lecture + AlexNet [[pdf](assets/lectures/lec02/convolutional_networks_v2.pdf), [pptx](assets/lectures/lec02/convolutional_networks_v2.pptx)]
+
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
