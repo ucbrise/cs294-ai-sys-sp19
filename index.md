@@ -201,6 +201,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ### Auto-Encoders
 
 * An excellent [Survey on Autoencoders](https://www.doc.ic.ac.uk/~js4416/163/website/)
+* A tutorial on [variational auto-encoders](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 * Original work on auto-encoders [Learning Internal Representations by Error Propagation](https://ieeexplore.ieee.org/document/6302929) by Rumelhart and McClelland.
 
 
