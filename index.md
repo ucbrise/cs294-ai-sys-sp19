@@ -192,17 +192,19 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 
-### Recurrent Neural Networks
-
-* Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs.
-* Chris Olah has a [well illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 
 
 ### Auto-Encoders
 
 * An excellent [Survey on Autoencoders](https://www.doc.ic.ac.uk/~js4416/163/website/)
-* A tutorial on [variational auto-encoders](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+* A tutorial on [variational auto-encoders](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) (and another [tutorial](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf))
 * Original work on auto-encoders [Learning Internal Representations by Error Propagation](https://ieeexplore.ieee.org/document/6302929) by Rumelhart and McClelland.
+
+
+<!-- ### Recurrent Neural Networks
+
+* Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs.
+* Chris Olah has a [well illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 
 
 ### Capsule Networks
@@ -210,7 +212,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Other Kinds of Data
 * [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
-
+ -->
 
 </div>
 </div>
