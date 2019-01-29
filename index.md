@@ -136,8 +136,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 * The [AlexNet paper](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) that both help launch deep learning and also advocate for systems and ML.  Take a look at how system constraints affected the model.
-
-* [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
+* [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261).  In retrospect, the paper [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) provides a better overview of the ideas and motivations behind the latest inception models.
 
 
 </div>
@@ -180,7 +179,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="required_reading" markdown="1">
 
 
-* [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf)
+* We had originally assigned, [Autoencoders, Unsupervised Learning, and Deep Architectures](http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf).  However this paper is a bit theoretical for the goals of this class. Instead, you may alternatively read [this overview paper](https://arxiv.org/pdf/1801.01586.pdf) and use it when filling in the reading form.
 * [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
 
 
