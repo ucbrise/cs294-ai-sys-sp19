@@ -229,6 +229,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="required_reading" markdown="1">
 
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+* [MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](https://www.cs.cmu.edu/~muli/file/mxnet-learning-sys.pdf)
+
+</div> 
+<div class="optional_reading" markdown="1">
 * [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
 
 </div>
@@ -244,7 +248,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf)
 * [RLlib: Abstractions for Distributed Reinforcement Learning](https://arxiv.org/abs/1712.09381)
 
-</div>
+</div> 
 <div class="optional_reading" markdown="1">
 
 * [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260)
