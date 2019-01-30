@@ -189,9 +189,6 @@ If you find some of the reading confusing and want a more gentle introduction, t
 </div>
 <div class="optional_reading" markdown="1">
 
-### Language Networks:
-* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
-
 
 
 
@@ -203,7 +200,17 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * Original work on auto-encoders [Learning Internal Representations by Error Propagation](https://ieeexplore.ieee.org/document/6302929) by Rumelhart and McClelland.
 
 
+### Graph Networks
+
+* The paper ["Relational inductive biases, deep learning, and graph networks"](https://arxiv.org/abs/1806.01261) provides some background and motivations behind deep learning on relational objects and introduces a general **Graph Network** framework.
+* The paper ["Semi-Supervised Classification with Graph Convolutional Networks"](https://arxiv.org/abs/1609.02907) introduces graph convolutional networks.
+
 <!-- ### Recurrent Neural Networks
+
+### Language Networks:
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+
 
 * Andrej Karpathy has an excellent overview [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs.
 * Chris Olah has a [well illustrated overview of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
