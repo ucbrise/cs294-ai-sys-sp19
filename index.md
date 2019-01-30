@@ -173,6 +173,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/POkEId1xA5c9FjoI3) due before class. 
+* Intro [[pdf](assets/lectures/lec03/other_networks.pdf), [pptx](assets/lectures/lec03/other_networks.pptx)]
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
