@@ -229,8 +229,17 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 
+
+
+
 {% include syllabus_entry %}
 ## Deep Learning Frameworks 
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/vxGNPZ9HK99Yl6QI2) due before class. 
+
+
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -244,6 +253,14 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 </div>
 </div>
+
+
+
+
+
+
+
+
 
 
 {% include syllabus_entry %}
