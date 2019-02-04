@@ -11,6 +11,7 @@ layout: default
 * **Announcements**: [Piazza](https://piazza.com/berkeley/spring2019/cs294159/home)
 * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1NLLVPh8QioXRtzYEKc3XjtJMLqbT8WMMQ27bQz8lSJI/edit?usp=sharing
 )
+* **Project Ideas**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/16Oz8ZJ0x1AdukWQxq7QYdzkzoVH70vbhtSOGlJ_EFKc/edit#gid=0)
 
 
 ## Course Description
