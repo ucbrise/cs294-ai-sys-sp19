@@ -175,6 +175,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ### Links
 * [Reading Quiz](https://goo.gl/forms/POkEId1xA5c9FjoI3) due before class. 
 * Intro [[pdf](assets/lectures/lec03/other_networks.pdf), [pptx](assets/lectures/lec03/other_networks.pptx)]
+* Autoencoders [[pdf](assets/lectures/lec03/autoencoders.pdf), [pptx](assets/lectures/lec03/autoencoders.pptx)]
 
 
 <div class="summary" markdown="1"> </div>
