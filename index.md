@@ -238,6 +238,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/vxGNPZ9HK99Yl6QI2) due before class. 
+* Intro Lecture [[pdf](assets/lectures/lec04/lec04.pdf), [pptx](assets/lectures/lec04/lec04.pptx)]
 
 
 
