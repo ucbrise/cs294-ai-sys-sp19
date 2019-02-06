@@ -268,10 +268,14 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## RL Systems & Algorithms
+
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/awQKZjxtb1PV0g272) due before class. 
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
-
 * [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf)
 * [RLlib: Abstractions for Distributed Reinforcement Learning](https://arxiv.org/abs/1712.09381)
 
