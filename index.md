@@ -247,13 +247,14 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) and/or [TensorFlow OSDI Paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 * [MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](https://www.cs.cmu.edu/~muli/file/mxnet-learning-sys.pdf)
 
 </div> 
 <div class="optional_reading" markdown="1">
+* The following [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/pdf/1511.06435.pdf) provides a good (but a little dated) comparison of the various frameworks.
 * [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
-
+* An more detailed overview of [Theano](https://arxiv.org/pdf/1605.02688.pdf).
 </div>
 </div>
 
