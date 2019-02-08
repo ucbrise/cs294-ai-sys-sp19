@@ -307,6 +307,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 <div class="optional_reading" markdown="1">
 
+* [SageDB: A Learned Database System](http://alexbeutel.com/papers/CIDR2019_SageDB.pdf)
 * [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf)
 
 </div>
