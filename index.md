@@ -334,8 +334,6 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="required_reading" markdown="1">
 
 * [Ray: A Distributed Framework for Emerging AI Applications](https://arxiv.org/abs/1712.05889)
-* [MXNet: A Flexible and Efficient Machine Learning
-Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 </div>
 
