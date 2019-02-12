@@ -256,7 +256,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="optional_reading" markdown="1">
 * The following [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/pdf/1511.06435.pdf) provides a good (but a little dated) comparison of the various frameworks.
 * [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
-* An more detailed overview of [Theano](https://arxiv.org/pdf/1605.02688.pdf).
+* A more detailed overview of [Theano](https://arxiv.org/pdf/1605.02688.pdf).
 </div>
 </div>
 
@@ -315,7 +315,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="optional_reading" markdown="1">
 
 * [SageDB: A Learned Database System](http://alexbeutel.com/papers/CIDR2019_SageDB.pdf)
-* [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf)
+* [RLgraph: Flexible Computation Graphs for Deep Reinforcement Learning](https://arxiv.org/1810.09028)
 
 </div>
 </div>
@@ -333,15 +333,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Ray: A Distributed Framework for Emerging AI Applications](https://arxiv.org/abs/1712.05889)
-* [MXNet: A Flexible and Efficient Machine Learning
-Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
-
-</div>
-
-<div class="optional_reading" markdown="1">
-
-* [RLgraph: Flexible Computation Graphs for Deep Reinforcement Learning](https://arxiv.org/1810.09028)
+* [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208) cont'd
+* [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf)
 
 </div>
 </div>
