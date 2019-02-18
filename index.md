@@ -368,7 +368,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/pdf/1603.06560.pdf)
+* [A Generalized Framework for Population Based Training](https://arxiv.org/pdf/1902.01894.pdf)
 * [Google Vizier: A Service for Black-Box Optimization](https://research.google.com/pubs/archive/46180.pdf)
 
 </div>
