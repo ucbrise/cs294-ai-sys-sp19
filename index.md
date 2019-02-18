@@ -302,7 +302,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ### Links
 * [Reading Quiz](https://goo.gl/forms/uKUtXqhpv2Jctqgq1
 ) due before class. 
-
+* Learned Indexes [[pdf](assets/lectures/lec05/learnedIndexes.pdf), [pptx](assets/lectures/lec05/learnedIndexes.pptx)]
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
