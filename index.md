@@ -331,8 +331,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ## Distributed Systems for ML
 
 ### Links
-* [Reading Quiz](https://goo.gl/forms/aalfGnuX1ZFdYhlX2
-) due before class. 
+* [Reading Quiz](https://goo.gl/forms/aalfGnuX1ZFdYhlX2) due before class. 
 
 
 
@@ -364,6 +363,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Hyperparameter search
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/z7CcNYyXD9rL67pI2) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
