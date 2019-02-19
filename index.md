@@ -275,6 +275,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/awQKZjxtb1PV0g272) due before class. 
+* RLlib [[pdf](assets/lectures/rllib.pdf)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
