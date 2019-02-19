@@ -373,11 +373,20 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="required_reading" markdown="1">
 
 * [A Generalized Framework for Population Based Training](https://arxiv.org/pdf/1902.01894.pdf)
+* [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/pdf/1603.06560.pdf)
+
+</div>
+
+
+<div class="optional_reading" markdown="1">
+
+ 
 * [Google Vizier: A Service for Black-Box Optimization](https://research.google.com/pubs/archive/46180.pdf)
 
 </div>
-</div>
 
+
+</div>
 
 
 
