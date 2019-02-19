@@ -365,8 +365,11 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Hyperparameter search
 
+
+
 ### Links
-* [Reading Quiz](https://goo.gl/forms/z7CcNYyXD9rL67pI2) due before class.
+* [Reading Quiz](https://goo.gl/forms/z7CcNYyXD9rL67pI2) due before class.  There was a mix-up in updating the reading and the wrong paper was swapped.  You may either read the Hyperband paper (preferred) or the Vizer paper (see optional reading) for the second reading. 
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
