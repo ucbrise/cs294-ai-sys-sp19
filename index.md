@@ -304,6 +304,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * [Reading Quiz](https://goo.gl/forms/uKUtXqhpv2Jctqgq1
 ) due before class. 
 * Learned Indexes [[pdf](assets/lectures/lec05/learnedIndexes.pdf), [pptx](assets/lectures/lec05/learnedIndexes.pptx)]
+* Learning to Optimize Join Queries [[pdf](assets/lectures/lec05/dq.pdf)]
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -333,6 +334,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/aalfGnuX1ZFdYhlX2) due before class. 
+* Learned Cardinalities [[pdf](assets/lectures/lec05/learned-cardinalities.pdf)]
 
 
 
