@@ -466,6 +466,11 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * [TensorComprehensions](https://arxiv.org/abs/1802.04730)
 
 </div>
+<div class="optional_reading" markdown="1">
+
+* [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166): The TVM story is two fold. There's a System for ML story (above paper) and this paper is their the ML for System story.
+
+</div>
 </div>
 
 
