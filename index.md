@@ -425,6 +425,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Auto ML & Neural Architecture Search (2/2)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/xOVySnneBUDiNjAC3) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -441,6 +445,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Autonomous Vehicles
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Ai4L7UFj3YD40YJJ2) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -464,6 +471,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Deep Learning Compilers
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Bf6Qobcj4QkizOXu2) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
