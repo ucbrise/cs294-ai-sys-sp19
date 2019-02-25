@@ -405,7 +405,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/Twa0EQ9rJKIZ0eaj1) due before class.
-
+* AutoML Overview [[pdf](assets/lectures/lec10/automl.pdf), [pptx](assets/lectures/lec10/automl.pptx)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
