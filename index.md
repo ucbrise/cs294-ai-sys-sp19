@@ -400,14 +400,18 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
+
 ## Auto ML & Neural Architecture Search (1/2)
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
+## Links
+* [Reading Quiz](https://goo.gl/forms/Twa0EQ9rJKIZ0eaj1) due before class.
+
 * [Efficient and Robust Automated Machine Learning](https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf)
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
-
+`
 </div>
 </div>
 
