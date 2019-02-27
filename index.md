@@ -429,6 +429,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/xOVySnneBUDiNjAC3) due before class.
+* Semantic Segmentation AutoML slides [[pdf](assets/lectures/2019.02.27_EfficientMultiscalePrediction.pdf)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
