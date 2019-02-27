@@ -12,6 +12,7 @@ layout: default
 * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1NLLVPh8QioXRtzYEKc3XjtJMLqbT8WMMQ27bQz8lSJI/edit?usp=sharing
 )
 * **Project Ideas**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/16Oz8ZJ0x1AdukWQxq7QYdzkzoVH70vbhtSOGlJ_EFKc/edit#gid=0)
+* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-sp19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-sp19/blob/master/index.md) file.
 
 
 ## Course Description
@@ -255,7 +256,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="optional_reading" markdown="1">
 * The following [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/pdf/1511.06435.pdf) provides a good (but a little dated) comparison of the various frameworks.
 * [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
-* An more detailed overview of [Theano](https://arxiv.org/pdf/1605.02688.pdf).
+* A more detailed overview of [Theano](https://arxiv.org/pdf/1605.02688.pdf).
 </div>
 </div>
 
@@ -274,6 +275,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/awQKZjxtb1PV0g272) due before class. 
+* RLlib [[pdf](assets/lectures/rllib.pdf)]
+* A3C [[pdf](assets/lectures/A3C.pdf)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -294,8 +297,15 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 
+
 {% include syllabus_entry %}
 ## Application: Data Structure and Algorithms
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/uKUtXqhpv2Jctqgq1
+) due before class. 
+* Learned Indexes [[pdf](assets/lectures/lec05/learnedIndexes.pdf), [pptx](assets/lectures/lec05/learnedIndexes.pptx)]
+* Learning to Optimize Join Queries [[pdf](assets/lectures/lec05/dq.pdf)]
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -307,7 +317,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 <div class="optional_reading" markdown="1">
 
-* [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf)
+* [SageDB: A Learned Database System](http://alexbeutel.com/papers/CIDR2019_SageDB.pdf)
+* [RLgraph: Flexible Computation Graphs for Deep Reinforcement Learning](https://arxiv.org/1810.09028)
 
 </div>
 </div>
@@ -321,19 +332,19 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Distributed Systems for ML
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/aalfGnuX1ZFdYhlX2) due before class. 
+* Learned Cardinalities [[pdf](assets/lectures/lec05/learned-cardinalities.pdf)]
+
+
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Ray: A Distributed Framework for Emerging AI Applications](https://arxiv.org/abs/1712.05889)
-* [MXNet: A Flexible and Efficient Machine Learning
-Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
-
-</div>
-
-<div class="optional_reading" markdown="1">
-
-* [RLgraph: Flexible Computation Graphs for Deep Reinforcement Learning](https://arxiv.org/1810.09028)
+* [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208) cont'd
+* [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf)
 
 </div>
 </div>
@@ -356,16 +367,32 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 {% include syllabus_entry %}
 ## Hyperparameter search
+
+
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/z7CcNYyXD9rL67pI2) due before class.  There was a mix-up in updating the reading and the wrong paper was swapped.  You may either read the Hyperband paper (preferred) or the Vizer paper (see optional reading) for the second reading. 
+
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
+* [A Generalized Framework for Population Based Training](https://arxiv.org/pdf/1902.01894.pdf)
 * [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/pdf/1603.06560.pdf)
+
+</div>
+
+
+<div class="optional_reading" markdown="1">
+
+ 
 * [Google Vizier: A Service for Black-Box Optimization](https://research.google.com/pubs/archive/46180.pdf)
 
 </div>
-</div>
 
+
+</div>
 
 
 
@@ -374,14 +401,20 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 
 {% include syllabus_entry %}
+
 ## Auto ML & Neural Architecture Search (1/2)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Twa0EQ9rJKIZ0eaj1) due before class.
+* AutoML Overview [[pdf](assets/lectures/lec10/automl.pdf), [pptx](assets/lectures/lec10/automl.pptx)]
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
 * [Efficient and Robust Automated Machine Learning](https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf)
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
-
+`
 </div>
 </div>
 
@@ -393,6 +426,10 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 {% include syllabus_entry %}
 ## Auto ML & Neural Architecture Search (2/2)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/xOVySnneBUDiNjAC3) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -409,6 +446,9 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 {% include syllabus_entry %}
 ## Autonomous Vehicles
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Ai4L7UFj3YD40YJJ2) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -432,12 +472,21 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 
 {% include syllabus_entry %}
 ## Deep Learning Compilers
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Bf6Qobcj4QkizOXu2) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
 * [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
 * [TensorComprehensions](https://arxiv.org/abs/1802.04730)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166): The TVM story is two fold. There's a System for ML story (above paper) and this paper is their the ML for System story.
 
 </div>
 </div>
@@ -625,14 +674,16 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/1512.01274)
 <div class="reading">
 <div class="required_reading" markdown="1">
 
+* [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/1811.09886)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
-* [TensorFlow-Serving: Flexible, High-Performance ML Serving](https://arxiv.org/abs/1712.06139)
 
 
 </div>
 <div class="optional_reading" markdown="1">
 
 * [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://www.kdd.org/kdd2017/papers/view/tfx-a-tensorflow-based-production-scale-machine-learning-platform)
+* [TensorFlow-Serving: Flexible, High-Performance ML Serving](https://arxiv.org/abs/1712.06139)
+
 
 </div>
 </div>
