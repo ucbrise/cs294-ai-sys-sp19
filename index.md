@@ -276,6 +276,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ### Links
 * [Reading Quiz](https://goo.gl/forms/awQKZjxtb1PV0g272) due before class. 
 * RLlib [[pdf](assets/lectures/rllib.pdf)]
+* A3C [[pdf](assets/lectures/A3C.pdf)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -400,14 +401,20 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
+
 ## Auto ML & Neural Architecture Search (1/2)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Twa0EQ9rJKIZ0eaj1) due before class.
+* AutoML Overview [[pdf](assets/lectures/lec10/automl.pdf), [pptx](assets/lectures/lec10/automl.pptx)]
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
 * [Efficient and Robust Automated Machine Learning](https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf)
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
-
+`
 </div>
 </div>
 
@@ -419,6 +426,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Auto ML & Neural Architecture Search (2/2)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/xOVySnneBUDiNjAC3) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -435,6 +446,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Autonomous Vehicles
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Ai4L7UFj3YD40YJJ2) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -458,6 +472,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Deep Learning Compilers
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/Bf6Qobcj4QkizOXu2) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
