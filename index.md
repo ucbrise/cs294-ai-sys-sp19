@@ -482,6 +482,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ### Links
 * [Reading Quiz](https://goo.gl/forms/Bf6Qobcj4QkizOXu2) due before class.
 * DL Compiler Overview [[pdf](assets/lectures/lec13/lec13.pdf), [pptx](assets/lectures/lec13/lec13.pptx)]
+* [Presentation PDF](assets/lectures/lec12/dl-compilers.pdf)
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
