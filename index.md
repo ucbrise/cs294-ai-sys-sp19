@@ -373,6 +373,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/z7CcNYyXD9rL67pI2) due before class.  There was a mix-up in updating the reading and the wrong paper was swapped.  You may either read the Hyperband paper (preferred) or the Vizer paper (see optional reading) for the second reading. 
+* A Generalized Framework for Population Based Training [[pdf](assets/lectures/lec09/generalized-PBT.pdf)]
 
 
 <div class="summary" markdown="1"> </div>
