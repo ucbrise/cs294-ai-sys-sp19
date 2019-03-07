@@ -177,6 +177,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * [Reading Quiz](https://goo.gl/forms/POkEId1xA5c9FjoI3) due before class. 
 * Intro [[pdf](assets/lectures/lec03/other_networks.pdf), [pptx](assets/lectures/lec03/other_networks.pptx)]
 * Autoencoders [[pdf](assets/lectures/lec03/autoencoders.pdf), [pptx](assets/lectures/lec03/autoencoders.pptx)]
+* Graph Neural Networks [[pdf](assets/lectures/lec03/gnn.pdf), [pptx](assets/lectures/lec03/gnn.pptx)]
 
 
 <div class="summary" markdown="1"> </div>
@@ -372,6 +373,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/z7CcNYyXD9rL67pI2) due before class.  There was a mix-up in updating the reading and the wrong paper was swapped.  You may either read the Hyperband paper (preferred) or the Vizer paper (see optional reading) for the second reading. 
+* A Generalized Framework for Population Based Training [[pdf](assets/lectures/lec09/generalized-PBT.pdf)]
 
 
 <div class="summary" markdown="1"> </div>
@@ -407,6 +409,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ### Links
 * [Reading Quiz](https://goo.gl/forms/Twa0EQ9rJKIZ0eaj1) due before class.
 * AutoML Overview [[pdf](assets/lectures/lec10/automl.pdf), [pptx](assets/lectures/lec10/automl.pptx)]
+* Designing Neural Networks with RL [[pdf](assets/lectures/lec10/neuralArchitecturesRL.pdf), [pptx](assets/lectures/lec10/neuralArchitecturesRL.pptx)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -429,6 +432,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/xOVySnneBUDiNjAC3) due before class.
+* Semantic Segmentation AutoML slides [[pdf](assets/lectures/2019.02.27_EfficientMultiscalePrediction.pdf)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -449,6 +453,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/Ai4L7UFj3YD40YJJ2) due before class.
+* Autonomous Vehicles Overview [[pdf](assets/lectures/lec12/autonomous_vehicles.pptx), [pptx](assets/lectures/lec12/autonomous_vehicles.pptx)]
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -475,6 +481,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/Bf6Qobcj4QkizOXu2) due before class.
+* DL Compiler Overview [[pdf](assets/lectures/lec13/lec13.pdf), [pptx](assets/lectures/lec13/lec13.pptx)]
 * [Presentation PDF](assets/lectures/lec12/dl-compilers.pdf)
 
 <div class="summary" markdown="1"> </div>
@@ -506,6 +513,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Application: Program synthesis
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/3NvIpsgyplAgnUE72) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -520,6 +531,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Distributed Deep Learning  (Part 1)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/VO4snX4spwwmlYmA2) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -538,11 +553,12 @@ If you find some of the reading confusing and want a more gentle introduction, t
 </div>
 
 
-
-
-
 {% include syllabus_entry %}
 ## Distributed Deep Learning (Part 2)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/sXv2koIa4wbv25903) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
