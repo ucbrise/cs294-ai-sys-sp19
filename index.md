@@ -506,6 +506,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Application: Program synthesis
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/3NvIpsgyplAgnUE72) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -520,6 +524,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Distributed Deep Learning  (Part 1)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/VO4snX4spwwmlYmA2) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -538,11 +546,12 @@ If you find some of the reading confusing and want a more gentle introduction, t
 </div>
 
 
-
-
-
 {% include syllabus_entry %}
 ## Distributed Deep Learning (Part 2)
+
+### Links
+* [Reading Quiz](https://goo.gl/forms/sXv2koIa4wbv25903) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
