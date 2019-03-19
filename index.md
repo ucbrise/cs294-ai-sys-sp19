@@ -549,6 +549,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * [Exascale Deep Learning for Climate Analytics](https://arxiv.org/abs/1810.01993)
 * [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233)
 
+* [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+
 </div>
 </div>
 
