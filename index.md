@@ -591,6 +591,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Application: Networking
 
+### Links
+* Overview [[pdf](assets/lectures/lec20/lec20.pdf), [pptx](assets/lectures/lec20/lec20.pptx)]
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
