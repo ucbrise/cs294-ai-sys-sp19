@@ -591,12 +591,15 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Application: Networking
 
+## Links
+* [Reading Quiz](https://forms.gle/BU6BKCKxtSxs6ce39) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
 * [Neural Adaptive Video Streaming with Pensieve - People - MIT](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf)
-* [Internet Congestion Control via Deep Reinforcement Learning]()
+* [Internet Congestion Control via Deep Reinforcement Learning](https://arxiv.org/abs/1810.03259)
 
 </div>
 <div class="optional_reading" markdown="1">
