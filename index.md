@@ -598,7 +598,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Neural Adaptive Video Streaming with Pensieve - People - MIT](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf)
+* [Neural Adaptive Video Streaming with Pensieve](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf)
 * [Internet Congestion Control via Deep Reinforcement Learning](https://arxiv.org/abs/1810.03259)
 
 </div>
@@ -617,6 +617,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Dynamic Neural Networks
+
+## Links
+* [Reading Quiz](https://forms.gle/PtZEf7DknrcHJNH9A) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
