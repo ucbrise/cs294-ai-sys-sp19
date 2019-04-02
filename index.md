@@ -453,7 +453,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/Ai4L7UFj3YD40YJJ2) due before class.
-* Autonomous Vehicles Overview [[pdf](assets/lectures/lec12/autonomous_vehicles.pptx), [pptx](assets/lectures/lec12/autonomous_vehicles.pptx)]
+* Autonomous Vehicles Overview [[pdf](assets/lectures/lec12/autonomous_vehicles.pdf), [pptx](assets/lectures/lec12/autonomous_vehicles.pptx)]
 * Presentation: The Architectural Implications of Autonomous Driving[[pdf](assets/lectures/lec12/ai_sys_ad.pdf)]
 
 
@@ -593,6 +593,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ## Links
 * [Reading Quiz](https://forms.gle/BU6BKCKxtSxs6ce39) due before class.
+* Introduction [[pdf](assets/lectures/lec20/lec20.pdf), [pptx](assets/lectures/lec20/lec20.pptx)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
