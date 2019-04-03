@@ -674,7 +674,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Helen](https://arxiv.org/abs/1602.07360)
+* [Helen](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://ai.google/research/pubs/pub45648)
 
 </div>
