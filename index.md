@@ -644,6 +644,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Model compression for edge devices
 
+## Links
+* [Reading Quiz](https://forms.gle/kPK7aHZqnuKTZLbWA) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -673,6 +676,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
+
+# Links
+* [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
 
 * [Helen](https://arxiv.org/abs/1602.07360)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://ai.google/research/pubs/pub45648)
