@@ -651,14 +651,14 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
+* [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
 * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
 
 </div>
 <div class="optional_reading" markdown="1">
 
 * [MobileNetV2: Inverted Residuals and Linear Bottlenecks]()
-
+* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
 </div>
 </div>
 
