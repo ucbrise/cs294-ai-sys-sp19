@@ -680,7 +680,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 # Links
 * [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
 
-* [Helen](https://arxiv.org/abs/1602.07360)
+* [Helen](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://ai.google/research/pubs/pub45648)
 
 </div>
