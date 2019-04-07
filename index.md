@@ -644,18 +644,21 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Model compression for edge devices
 
+## Links
+* [Reading Quiz](https://forms.gle/kPK7aHZqnuKTZLbWA) due before class.
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
+* [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
 * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
 
 </div>
 <div class="optional_reading" markdown="1">
 
 * [MobileNetV2: Inverted Residuals and Linear Bottlenecks]()
-
+* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
 </div>
 </div>
 
@@ -673,6 +676,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
+
+# Links
+* [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
 
 * [Helen](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://ai.google/research/pubs/pub45648)
