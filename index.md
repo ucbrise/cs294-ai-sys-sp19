@@ -525,6 +525,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * [Learning to Represent Programs with Graphs](https://openreview.net/forum?id=BJOFETxR-)
   [[pdf](assets/lectures/lec15/LearningProgramsWithGraphs.pdf)], [[key](https://gist.github.com/mwhittaker/7ce417d8af24b1038d9322c69f382ed8/raw/ddaa19812eb82fc244dd2016f7ba8243e0bdc9ec/LearningPrograms.key)]
 * [DeepCoder: Learning to write programs](https://openreview.net/pdf?id=ByldLrqlx)
+ [[pdf](assets/lectures/lec15/deepcoder.pdf)]
 
 </div>
 </div>
