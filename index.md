@@ -661,11 +661,13 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="optional_reading" markdown="1">
 
 * [MobileNetV2: Inverted Residuals and Linear Bottlenecks]()
-* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
 * [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164)
+* [Blog Post Comparing MobileNet and ShuffleNet](https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d)
+* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
 * [EffNet: An Efficient Structure for Convolutional Neural Networks](https://arxiv.org/abs/1801.06434)
 * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 * [Ternary Weight Networks](https://arxiv.org/abs/1605.04711)
+
 </div>
 </div>
 
