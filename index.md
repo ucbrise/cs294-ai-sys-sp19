@@ -592,7 +592,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Application: Networking
 
-## Links
+### Links
 * [Reading Quiz](https://forms.gle/BU6BKCKxtSxs6ce39) due before class.
 * Introduction [[pdf](assets/lectures/lec20/lec20.pdf), [pptx](assets/lectures/lec20/lec20.pptx)]
 
@@ -620,7 +620,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Dynamic Neural Networks
 
-## Links
+### Links
 * [Reading Quiz](https://forms.gle/PtZEf7DknrcHJNH9A) due before class.
 * Introduction [[pdf](assets/lectures/lec21/dynamic_networks.pdf), [pptx](assets/lectures/lec21/dynamic_networks.pptx)]
 
@@ -647,7 +647,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Model Compression 
 
-## Links
+### Links
 * [Reading Quiz](https://forms.gle/kPK7aHZqnuKTZLbWA) due before class.
 * Introduction [[pdf](assets/lectures/lec22/network_compression.pdf), [pptx](assets/lectures/lec22/network_compression.pptx)]
 
@@ -684,7 +684,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Applications: Security
 
-# Links
+### Links
 * [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
 
 
@@ -717,7 +717,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Application: Prediction Serving
 
-# Links
+### Links
 * [Reading Quiz](https://forms.gle/3nrWmbZsGJTLYXrz7) due before class.
 
 <div class="summary" markdown="1"> </div>
@@ -750,7 +750,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Machine Translation Systems
 
-# Links
+### Links
 * [Reading Quiz](https://forms.gle/ubTifrBuaRVFRyrH6) due before class.
 
 
