@@ -684,12 +684,13 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Applications: Security
 
+# Links
+* [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
+
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
-
-# Links
-* [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
 
 * [Helen](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://ai.google/research/pubs/pub45648)
@@ -715,6 +716,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Application: Prediction Serving
+
+# Links
+* [Reading Quiz](https://forms.gle/3nrWmbZsGJTLYXrz7) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -746,13 +750,11 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Machine Translation Systems
 
+# Links
+* [Reading Quiz](https://forms.gle/ubTifrBuaRVFRyrH6) due before class.
 
 
-<div class="summary" markdown="1"> 
-	
-Note, there was a minor change in the schedule.
-
-</div>
+<div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
