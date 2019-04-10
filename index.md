@@ -686,6 +686,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
+* Helen [[pdf](assets/lectures/lec23/helen.pdf), [pptx](assets/lectures/lec23/helen.pptx)]
 
 
 <div class="summary" markdown="1"> </div>
