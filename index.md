@@ -744,18 +744,31 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
-## Distributed RL Algorithms
+## Machine Translation Systems
 
-<div class="summary" markdown="1"> </div>
+
+
+<div class="summary" markdown="1"> 
+	
+Note, there was a minor change in the schedule.
+
+</div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
+* [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595)
+* [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+
+
+</div>
+</div>
+
+
+
+<!-- 
 * [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
 * [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)
-
-</div>
-</div>
-
+ -->
 
 
 
