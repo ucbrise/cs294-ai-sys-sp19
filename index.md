@@ -649,6 +649,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ## Links
 * [Reading Quiz](https://forms.gle/kPK7aHZqnuKTZLbWA) due before class.
+* Introduction [[pdf](assets/lectures/lec22/network_compression.pdf), [pptx](assets/lectures/lec22/network_compression.pptx)]
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
