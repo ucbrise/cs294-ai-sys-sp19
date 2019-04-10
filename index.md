@@ -858,8 +858,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 <center> <h1>RRR Week (May 6th)</h1> </center>
+
+
 {% include syllabus_entry %}
-<center> <h1>RRR Week (May 8th)</h1> </center>
+<center> <h1>Poster Session from 9:00 to 11:00</h1> </center>
 
 
 
