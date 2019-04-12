@@ -72,6 +72,7 @@ For projects, we will strongly encourage teams that contains both AI and systems
 5/1/19
 5/6/19
 5/8/19
+5/13/19
 {% endcapture %}
 {% assign dates = dates | split: " " %}
 
@@ -863,6 +864,13 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 <center> <h1>Poster Session from 9:00 to 11:00</h1> </center>
 
+
+{% include syllabus_entry %}
+<center> <h1>Final Reports Due</h1> </center>
+
+* Due at 11:59 PM
+* Format: 8 pages (Google Doc)
+* Email link to jegonzal@berkeley.edu and istoica@berkeley.edu
 
 
 
