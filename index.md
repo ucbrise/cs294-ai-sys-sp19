@@ -749,7 +749,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
-## Machine Translation Systems
+## Natural Language Processing Systems
 
 ### Links
 * [Reading Quiz](https://forms.gle/ubTifrBuaRVFRyrH6) due before class.
