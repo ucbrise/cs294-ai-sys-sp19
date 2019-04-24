@@ -823,7 +823,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Optimus: an efficient dynamic resource scheduler for deep learning clusters](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
+* [Optimus: an efficient dynamic resource scheduler for deep learning clusters](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) [[pdf](assets/lectures/lec27/optimus.pdf)]
 * [Gandiva: Introspective Cluster Scheduling for Deep Learning](https://www.usenix.org/conference/osdi18/presentation/xiao)
 
 </div>
