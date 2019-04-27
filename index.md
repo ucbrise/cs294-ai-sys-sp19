@@ -818,6 +818,8 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://forms.gle/SjP1kBFfZGr7naKn8) due before class.
+* DL Scheduling slides [[pdf](assets/lectures/lec27/dl-scheduling.pdf)]
+* Dominant Resource Fairness (DRF) slides [[pdf](assets/lectures/lec27/DRF.pdf)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -841,26 +843,43 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
-## New Neural Architectures
+## New Neural Architectures (Part 1)
+
+## Links
+* [Reading Quiz](https://forms.gle/Tot5oRZqjVEEhuF19) due before class.
+
+<div class="summary" markdown="1"> </div>
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Cortical Learning via Prediction](http://proceedings.mlr.press/v40/Papadimitriou15.pdf)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [A Neuroidal Architecture for Cognitive Computation](https://dash.harvard.edu/bitstream/handle/1/23853806/tr-04-98.pdf?sequence=1)
+
+</div>
+</div>
+
+## Class Summary (Ion)
+
+{% include syllabus_entry %}
+## New Neural Architectures (Part 2)
+
+## Links
+* [Reading Quiz](ihttps://forms.gle/wi2DjjrbcpkwHWxr6) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
 * [Matrix capsules with EM Routing](https://ai.google/research/pubs/pub46653)
-* [Cortical Learning via Prediction](http://proceedings.mlr.press/v40/Papadimitriou15.pdf)
 
 </div>
 </div>
 
-
-
-
-
-{% include syllabus_entry %}
-<center> <h1>Class Summary</h1> </center>
-
-
+# Class Summary (Joey)
 
 
 
