@@ -879,7 +879,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 </div>
 </div>
 
-# Class Summary (Joey)
+## Class Summary (Joey)
 
 
 
