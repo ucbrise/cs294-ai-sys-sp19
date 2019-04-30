@@ -864,8 +864,13 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ## Class Summary (Ion)
 
+
+
+
 {% include syllabus_entry %}
 ## New Neural Architectures (Part 2)
+
+
 
 ## Links
 * [Reading Quiz](ihttps://forms.gle/wi2DjjrbcpkwHWxr6) due before class.
@@ -874,10 +879,12 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Matrix capsules with EM Routing](https://ai.google/research/pubs/pub46653)
+* [Neural Modular Networks](https://arxiv.org/abs/1511.02799) 
 
 </div>
 </div>
+
+
 
 ## Class Summary (Joey)
 
