@@ -873,7 +873,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 ## Links
-* [Reading Quiz](ihttps://forms.gle/wi2DjjrbcpkwHWxr6) due before class.
+* [Reading Quiz](https://forms.gle/wi2DjjrbcpkwHWxr6) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
