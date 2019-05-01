@@ -570,7 +570,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
+* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)[[pdf](assets/lectures/lec17/hogwild_final.pdf)]
 * [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
 
 </div>
