@@ -596,6 +596,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ### Links
 * [Reading Quiz](https://forms.gle/BU6BKCKxtSxs6ce39) due before class.
 * Introduction [[pdf](assets/lectures/lec20/lec20_intro.pdf), [pptx](assets/lectures/lec20/lec20_intro.pptx)]
+* AI Applications in Network Congestion Control [[pdf](assets/lectures/lec20/lec20.pdf), [pptx](assets/lectures/lec20/lec20.pptx)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
