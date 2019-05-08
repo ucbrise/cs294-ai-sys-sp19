@@ -847,9 +847,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
-## New Neural Architectures (Part 1)
+## Cortical Learning and Stoica Course Summary
 
-## Links
+### Links
 * [Reading Quiz](https://forms.gle/Tot5oRZqjVEEhuF19) due before class.
 
 <div class="summary" markdown="1"> </div>
@@ -866,18 +866,20 @@ If you find some of the reading confusing and want a more gentle introduction, t
 </div>
 </div>
 
-## Class Summary (Ion)
 
 
 
 
 {% include syllabus_entry %}
-## New Neural Architectures (Part 2)
+## Neural Modular Networks and Gonzalez Course Summary
 
 
 
-## Links
+### Links
+
 * [Reading Quiz](https://forms.gle/wi2DjjrbcpkwHWxr6) due before class.
+* Neural Modular Networks Slides [[pdf](assets/lectures/lec29/nmn.pdf), [pptx](assets/lectures/lec29/nmn.pptx)]
+* Gonzalez Course Summary (Reflections on the Field of AI-Systems) [[pdf](assets/lectures/lec29/gonzalez-ai-sys-summary.pdf), [pptx](assets/lectures/lec29/gonzalez-ai-sys-summary.pptx)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -890,7 +892,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 
-## Class Summary (Joey)
+
+
+
 
 
 
