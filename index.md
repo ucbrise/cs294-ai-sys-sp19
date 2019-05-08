@@ -72,6 +72,7 @@ For projects, we will strongly encourage teams that contains both AI and systems
 5/1/19
 5/6/19
 5/8/19
+5/13/19
 {% endcapture %}
 {% assign dates = dates | split: " " %}
 
@@ -453,7 +454,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://goo.gl/forms/Ai4L7UFj3YD40YJJ2) due before class.
-* Autonomous Vehicles Overview [[pdf](assets/lectures/lec12/autonomous_vehicles.pptx), [pptx](assets/lectures/lec12/autonomous_vehicles.pptx)]
+* Autonomous Vehicles Overview [[pdf](assets/lectures/lec12/autonomous_vehicles.pdf), [pptx](assets/lectures/lec12/autonomous_vehicles.pptx)]
 * Presentation: The Architectural Implications of Autonomous Driving[[pdf](assets/lectures/lec12/ai_sys_ad.pdf)]
 
 
@@ -525,6 +526,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 * [Learning to Represent Programs with Graphs](https://openreview.net/forum?id=BJOFETxR-)
   [[pdf](assets/lectures/lec15/LearningProgramsWithGraphs.pdf)], [[key](https://gist.github.com/mwhittaker/7ce417d8af24b1038d9322c69f382ed8/raw/ddaa19812eb82fc244dd2016f7ba8243e0bdc9ec/LearningPrograms.key)]
 * [DeepCoder: Learning to write programs](https://openreview.net/pdf?id=ByldLrqlx)
+ [[pdf](assets/lectures/lec15/deepcoder.pdf)]
 
 </div>
 </div>
@@ -568,7 +570,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
+* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)[[pdf](assets/lectures/lec17/hogwild_final.pdf)]
 * [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
 
 </div>
@@ -592,14 +594,15 @@ If you find some of the reading confusing and want a more gentle introduction, t
 ## Application: Networking
 
 ### Links
-* Overview [[pdf](assets/lectures/lec20/lec20.pdf), [pptx](assets/lectures/lec20/lec20.pptx)]
+* [Reading Quiz](https://forms.gle/BU6BKCKxtSxs6ce39) due before class.
+* Introduction [[pdf](assets/lectures/lec20/lec20_intro.pdf), [pptx](assets/lectures/lec20/lec20_intro.pptx)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Neural Adaptive Video Streaming with Pensieve - People - MIT](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf)
-* [Internet Congestion Control via Deep Reinforcement Learning]()
+* [Neural Adaptive Video Streaming with Pensieve](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf)
+* [Internet Congestion Control via Deep Reinforcement Learning](https://arxiv.org/abs/1810.03259)
 
 </div>
 <div class="optional_reading" markdown="1">
@@ -617,6 +620,11 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Dynamic Neural Networks
+
+### Links
+* [Reading Quiz](https://forms.gle/PtZEf7DknrcHJNH9A) due before class.
+* Introduction [[pdf](assets/lectures/lec21/dynamic_networks.pdf), [pptx](assets/lectures/lec21/dynamic_networks.pptx)]
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -638,19 +646,30 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
-## Model compression for edge devices
+## Model Compression 
+
+### Links
+* [Reading Quiz](https://forms.gle/kPK7aHZqnuKTZLbWA) due before class.
+* Introduction [[pdf](assets/lectures/lec22/network_compression.pdf), [pptx](assets/lectures/lec22/network_compression.pptx)]
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
+* [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
 * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
 
 </div>
 <div class="optional_reading" markdown="1">
 
 * [MobileNetV2: Inverted Residuals and Linear Bottlenecks]()
+* [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164)
+* [Blog Post Comparing MobileNet and ShuffleNet](https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d)
+* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/abs/1602.07360)
+* [EffNet: An Efficient Structure for Convolutional Neural Networks](https://arxiv.org/abs/1801.06434)
+* [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+* [Ternary Weight Networks](https://arxiv.org/abs/1605.04711)
 
 </div>
 </div>
@@ -666,11 +685,16 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Applications: Security
 
+### Links
+* [Reading Quiz](https://forms.gle/ThMXZWtB5YWrCxPo9) due before class.
+* Helen [[pdf](assets/lectures/lec23/helen.pdf), [pptx](assets/lectures/lec23/helen.pptx)]
+
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Helen](https://arxiv.org/abs/1602.07360)
+* [Helen](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://ai.google/research/pubs/pub45648)
 
 </div>
@@ -694,6 +718,9 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Application: Prediction Serving
+
+### Links
+* [Reading Quiz](https://forms.gle/3nrWmbZsGJTLYXrz7) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -723,18 +750,29 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
-## Distributed RL Algorithms
+## Natural Language Processing Systems
+
+### Links
+* [Reading Quiz](https://forms.gle/ubTifrBuaRVFRyrH6) due before class.
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
+* [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595)
+* [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+
+
+</div>
+</div>
+
+
+
+<!-- 
 * [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
 * [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)
-
-</div>
-</div>
-
+ -->
 
 
 
@@ -749,6 +787,10 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 {% include syllabus_entry %}
 ## Explanability & Interpretability
+
+### Links
+* [Reading Quiz](https://forms.gle/ksYAkkh1peZ8EaZP8) due before class.
+
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
@@ -775,11 +817,16 @@ If you find some of the reading confusing and want a more gentle introduction, t
 {% include syllabus_entry %}
 ## Scheduling for DL Workloads
 
+### Links
+* [Reading Quiz](https://forms.gle/SjP1kBFfZGr7naKn8) due before class.
+* DL Scheduling slides [[pdf](assets/lectures/lec27/dl-scheduling.pdf)]
+* Dominant Resource Fairness (DRF) slides [[pdf](assets/lectures/lec27/DRF.pdf)]
+
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Optimus: an efficient dynamic resource scheduler for deep learning clusters](https://blog.acolyer.org/2018/06/12/optimus-an-efficient-dynamic-resource-scheduler-for-deep-learning-clusters/)
+* [Optimus: an efficient dynamic resource scheduler for deep learning clusters](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) [[pdf](assets/lectures/lec27/optimus.pdf)]
 * [Gandiva: Introspective Cluster Scheduling for Deep Learning](https://www.usenix.org/conference/osdi18/presentation/xiao)
 
 </div>
@@ -797,34 +844,67 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 
 {% include syllabus_entry %}
-## New Neural Architectures
+## New Neural Architectures (Part 1)
+
+## Links
+* [Reading Quiz](https://forms.gle/Tot5oRZqjVEEhuF19) due before class.
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Matrix capsules with EM Routing](https://ai.google/research/pubs/pub46653)
 * [Cortical Learning via Prediction](http://proceedings.mlr.press/v40/Papadimitriou15.pdf)
 
 </div>
+<div class="optional_reading" markdown="1">
+
+* [A Neuroidal Architecture for Cognitive Computation](https://dash.harvard.edu/bitstream/handle/1/23853806/tr-04-98.pdf?sequence=1)
+
+</div>
+</div>
+
+## Class Summary (Ion)
+
+
+
+
+{% include syllabus_entry %}
+## New Neural Architectures (Part 2)
+
+
+
+## Links
+* [Reading Quiz](https://forms.gle/wi2DjjrbcpkwHWxr6) due before class.
+
+<div class="summary" markdown="1"> </div>
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Neural Modular Networks](https://arxiv.org/abs/1511.02799) 
+
+</div>
 </div>
 
 
 
-
-
-{% include syllabus_entry %}
-<center> <h1>Class Summary</h1> </center>
-
-
+## Class Summary (Joey)
 
 
 
 {% include syllabus_entry %}
-<center> <h1>RRR Week (May 7th)</h1> </center>
-{% include syllabus_entry %}
-<center> <h1>RRR Week (May 9th)</h1> </center>
+<center> <h1>RRR Week (May 6th)</h1> </center>
 
+
+{% include syllabus_entry %}
+<center> <h1>Poster Session from 9:00 to 11:00</h1> </center>
+
+
+{% include syllabus_entry %}
+<center> <h1>Final Reports Due</h1> </center>
+
+* Due at 11:59 PM
+* Format: 8 pages (Google Doc)
+* Email link to jegonzal@berkeley.edu and istoica@berkeley.edu
 
 
 
