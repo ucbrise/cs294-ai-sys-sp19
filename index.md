@@ -755,7 +755,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://forms.gle/ubTifrBuaRVFRyrH6) due before class.
-* Introduction [[pdf](assets/lectures/lec25/natural_language_systems.pdf), [pptx](assets/lectures/lec22/natural_language_systems.pptx)]
+* Introduction [[pdf](assets/lectures/lec25/natural_language_systems.pdf), [pptx](assets/lectures/lec25/natural_language_systems.pptx)]
 
 
 
@@ -793,7 +793,7 @@ If you find some of the reading confusing and want a more gentle introduction, t
 
 ### Links
 * [Reading Quiz](https://forms.gle/ksYAkkh1peZ8EaZP8) due before class.
-
+* Introduction [[pdf](assets/lectures/lec26/xai.pdf), [pptx](assets/lectures/lec26/xai.pptx)]
 
 <div class="summary" markdown="1"> </div>
 <div class="reading">
