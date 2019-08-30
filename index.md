@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+## A new version of this course is being offered in [Fall 2019](https://ucbrise.github.io/cs294-ai-sys-fa19/)
+
 # AI-Sys Spring 2019
 
 * **When**: *Mondays and Wednesdays from 9:30 to 11:00*
